@@ -15,10 +15,10 @@ public class MouseModel {
    private int yPos;
    public MouseModel() {
       try {
-         imageLeft = ImageIO.read(new File("C:\\Users\\User\\OneDrive\\Desktop\\NJOMZA-UP\\mouseleft.png"));
-         imageRight = ImageIO.read(new File("C:\\Users\\User\\OneDrive\\Desktop\\NJOMZA-UP\\mouseright.png"));
-         imageUp = ImageIO.read(new File("C:\\Users\\User\\OneDrive\\Desktop\\NJOMZA-UP\\mouseup.png"));
-         imageDown = ImageIO.read(new File("C:\\Users\\User\\OneDrive\\Desktop\\NJOMZA-UP\\mousedown.png"));
+         imageLeft = ImageIO.read(new File(System.getProperty("user.dir") + "\\mouseleft.png"));
+         imageRight = ImageIO.read(new File(System.getProperty("user.dir") + "\\mouseright.png"));
+         imageUp = ImageIO.read(new File(System.getProperty("user.dir") + "\\mouseup.png"));
+         imageDown = ImageIO.read(new File(System.getProperty("user.dir") + "\\mousedown.png"));
       }
       catch (IOException ex) {
          JOptionPane.showMessageDialog(null, "Error loading images");  

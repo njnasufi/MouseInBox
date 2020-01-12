@@ -12,12 +12,12 @@ s#i0
 s#k0
 s#j0
 s#l0
-!95;u
-a0	b70	c255	f%\011MouseInBox.jar	g%\011MouseInBox.zip	hManifest-Version\0111.0	iMouseController!67;g
+!74;u
+a0	b70	c255	f%\011MouseBox.jar	g%\011MouseBox.zip	hManifest-Version\0111.0!67;g
 %\011MouseModel.java
-%\011MouseController.java
 %\011MouseView.java
+%\011MouseController.java
 !67;f
 %\011MouseModel.java
-%\011MouseController.java
 %\011MouseView.java
+%\011MouseController.java
