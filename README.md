@@ -15,17 +15,12 @@ JRE(Java Runtime Environment)
 ```
 JDK(Java Development Kit)
 ```
-### Instalimi
-Pasi ti keni shkarkuar file-t që ndodhen në këtë repository, ndiqni këta hapa për ta ekzekutuar programin.
-```
-Hapni file-n setup.exe dhe vazhdoni me instalimin e programit.
-Instalimi është një proces i thjeshtë dhe procedurë standarde instalimi.
-```
-```
-Pasi të jetë instaluar programi, ju thjesht mund ta hapni atë duke klikuar mbi ikonen në vendin ku e keni ruajtur.
-```
+### Perdorimi
+Mjafton qe te hapni Jar file-in per te filluar programin. Me pas ju mund te shtypni komandat e lejuara ne hapesiren e dedikuar ne 
+dritaren e shfaqur. Nese deshironi te mbyllni programin ju mund te shtypin butonin "cancel" dhe do tju shfaqet dritarja verifkiuese per 
+mbyllje te programit.
 ## Ndërtuar Me
 * [Java](https://docs.oracle.com/en/java/javase/13/docs/api/index.html) - Gjuha programuese e përdorur
 ## Autorët
 * **Njomeza Nasufi** - *Dizajnim arkitekture, kodimi* - [njnasufi](https://github.com/njnasufi)
-* **Agnesa Nuha** - *Dizajnim arkitekture, testimi* - [Agnesa Nuha](https://github.com/Agnesa Nuha)
+* **Agnesa Nuha** - *Dizajnim arkitekture, testimi* - [agnesa12](https://github.com/agnesa12)
